@@ -1,2 +1,2 @@
-# Sticky-Logos
- Using Css3
+# Sticky Logos
+> Css3
